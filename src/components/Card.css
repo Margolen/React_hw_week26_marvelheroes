@@ -1,0 +1,19 @@
+.hero_card {
+   display: inline-grid;
+    padding: 30px;
+    width: 30%;
+    margin:10px;
+}
+
+.hero_card img{
+    width: 100%;
+    border-radius: 15px;
+    height: 150px;
+}
+
+.hero-name {
+    font-weight: bold;
+}
+
+
+
