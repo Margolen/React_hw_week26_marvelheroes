@@ -7,7 +7,7 @@ export default function Card(props) {
     <div className="hero_card">
 
         <div className="hero-name">{props.name}</div>
-        <img src={props.url}/> 
+        <img src={props.url} alt="herophoto"/> 
         <div className="hero-universe">{props.universe}</div>
         <div className="hero-alter_ego">{props.alter_ego}</div>
         <div className="hero-type_of_activity">{props.activity}</div>
